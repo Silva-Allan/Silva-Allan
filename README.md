@@ -13,7 +13,7 @@
 ### 🛠️ My Tech Stack
 
 <div align="center">
-  <img href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" alt="JavaScript" />
+  <img href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" height="50" alt="JavaScript" />
   <img width="15" />
   <img href="https://www.typescriptlang.org/docs/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
   <img width="15" />
