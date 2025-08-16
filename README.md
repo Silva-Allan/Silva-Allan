@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h3 align="left">Hi 👋! My name is Allan, I'm from Brazil and I'm 18 years old. I am studying high school and also the technical in systems development at Federal Institute of Science and Technology of Santa Catarina (IFSC).</h3>
 
 ###
