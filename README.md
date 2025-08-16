@@ -29,7 +29,7 @@
   <img width="15" />
   <img href="https://docs.oracle.com/en/java/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
   <img width="15" />
-  <img href="https://v2.tailwindcss.com/docs" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg](https://www.luisllamas.es/img/tailwind-icon.svg)" height="50" alt="TailwindCSS" />
+  <img href="https://v2.tailwindcss.com/docs" src="https://www.luisllamas.es/img/tailwind-icon.svg" height="50" alt="TailwindCSS" />
 </div>
 
 ---
