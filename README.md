@@ -54,12 +54,3 @@
   <img width="15" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silva-Allan&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
----
-
-### ⚡ Fun Facts
-
-- 🏃‍♂️ Athlete focused on high jump and triple jump  
-- 💻 Passionate about coding, especially front-end  
-- 📚 Lifelong learner, always exploring new technologies  
-- 🎯 Goal-oriented and loves challenges  
