@@ -11,7 +11,7 @@
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 <div align="center">
   <img href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
@@ -35,7 +35,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <div align="center" >
   <a href="https://www.instagram.com/silvaa__allan/" target="_blank">
@@ -46,7 +46,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Silva-Allan&show_icons=true&theme=radical" alt="GitHub Stats" />
