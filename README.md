@@ -31,6 +31,9 @@
   <img href="https://docs.oracle.com/en/java/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
   <img width="15" />
   <img href="https://v2.tailwindcss.com/docs" src="https://www.luisllamas.es/img/tailwind-icon.svg" height="45" alt="TailwindCSS" />
+  <img width="15" />
+  <img href="https://fekir.info/multimedia/git.png" height="50" alt="Git" />
+  <img width="15" />
 </div>
 
 ---
