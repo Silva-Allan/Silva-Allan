@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Allan!</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=500&width=500&lines=Ol%C3%A1%2C+%C3%A9+um+prazer+t%C3%AA-lo+aqui" alt="Typing SVG" /></a>
+
 <h3 align="center">I'm an 18-year-old developer and athlete from Brazil, currently studying high school and the Technical Course in Systems Development at Federal Institute of Science and Technology of Santa Catarina (IFSC).</h3>
 
 ---
