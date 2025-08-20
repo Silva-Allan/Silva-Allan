@@ -41,8 +41,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="Instagram" /></a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHxwVskvZzZHnJJctKSRSFggGmFXbXSJlVssFPsxzcTzzXNCpZfBvxNwjpRpWVntJMVqZTl" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="Gmail" /></a>
-  <a href="https://github.com/Silva-Allan" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="35" alt="GitHub" /></a>
 </div>
 
 ---
