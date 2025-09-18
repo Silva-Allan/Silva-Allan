@@ -43,7 +43,7 @@
 <div align="center" >
   <a href="https://www.instagram.com/silvaa__allan/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="Instagram" /></a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHxwVskvZzZHnJJctKSRSFggGmFXbXSJlVssFPsxzcTzzXNCpZfBvxNwjpRpWVntJMVqZTl" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=allangabrielsilva0602@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="Gmail" /></a>
 </div>
 
